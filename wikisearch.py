@@ -1,3 +1,4 @@
+#here you can search selected content in wikipedia bar itself without  opening browser
 import wikipedia
 from tkinter import *
 from tkinter.messagebox import showinfo
